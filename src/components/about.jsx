@@ -56,12 +56,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "As a Software Engineer, I possess a strong foundation in programming languages, algorithms, and data structures, as well as practical experience in software development methodologies. With over a year of experience as a Full-stack Developer, I specialize in React, React Native, Firebase, Python, Django, and Flask."
-        },
-        {
-          id: "second-p-about",
-          content:
-            "My experience in full-stack development includes designing and developing REST APIs with Flask, consuming them using Axios in the front-end, and implementing HTTP methods to design scalable and efficient applications. I also have experience working with Firebase, including services such as deep linking, authentication, and realtime database. Furthermore, I have a strong understanding of the entire architecture of a web or mobile application, from the front-end to the back-end and the underlying infrastructure. Throughout my career, I have utilized my knowledge of agile methodologies such as SCRUM, project management tools like JIRA, and version control systems like Git and GitLab."
+            "I am a Software Engineer with expertise in React, React Native, Firebase, Python, Django, and Flask. My skills include programming languages, algorithms, and data structures, as well as practical experience in software development methodologies. I have experience designing and developing REST APIs with Flask, using Axios in the front-end to consume them, and implementing HTTP methods for efficient applications. In addition, I have worked with Firebase, including services such as deep linking, authentication, and realtime database. I have a strong understanding of the architecture of web and mobile applications, from front-end to back-end and underlying infrastructure. Throughout my career, I have utilized agile methodologies such as SCRUM, project management tools like JIRA, and version control systems like Git and GitLab."
         }
       ]
     };
